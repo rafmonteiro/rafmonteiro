@@ -3,7 +3,7 @@
   <img border="0" height=200 align="center" src="https://github-readme-stats-kappa-navy-69.vercel.app/api?username=rafmonteiro&rank_icon=percentile&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img border="0" height=200 align="center" src="https://github-readme-stats-kappa-navy-69.vercel.app/api/top-langs/?username=rafmonteiro&hide=javascript,html&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
+  <img border="0" height=200 align="center" src="https://github-readme-stats-kappa-navy-69.vercel.app/api/top-langs/?username=rafmonteiro&hide=shaderlab,javascript,html&show_icons=true&theme=transparent&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <!--
