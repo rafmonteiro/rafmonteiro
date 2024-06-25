@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![Raf's GitHub stats](https://github-readme-stats-kappa-navy-69.vercel.app/api?username=rafmonteiro)](https://github.com/rafmonteiro/github-readme-stats)
+[![Raf's GitHub stats](https://github-readme-stats-kappa-navy-69.vercel.app/api?username=rafmonteiro&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/rafmonteiro/github-readme-stats)
 <!--
 **rafmonteiro/rafmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
