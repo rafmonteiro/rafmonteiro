@@ -1,7 +1,9 @@
 ## Hi there 👋
 [![Raf's GitHub stats](https://github-readme-stats-kappa-navy-69.vercel.app/api?username=rafmonteiro&show_icons=true&theme=transparent&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/rafmonteiro/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats-kappa-navy-69.vercel.app/api/top-langs/?username=rafmonteiro)](https://github.com/rafmonteiro/github-readme-stats)
+[![Top Langs](https://github-readme-stats-kappa-navy-69.vercel.app/api/top-langs/?username=rafmonteiro&show_icons=true&theme=transparent)](https://github.com/rafmonteiro/github-readme-stats)
+
+[![Harlok's WakaTime stats](https://github-readme-stats-kappa-navy-69.vercel.app/api/wakatime?username=rafmonteiro&show_icons=true&theme=transparent)](https://github.com/rafmonteiro/github-readme-stats)
 <!--
 **rafmonteiro/rafmonteiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
